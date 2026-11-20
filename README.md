@@ -1,6 +1,6 @@
 # Resuelve y explica mi tarea
 
-Skill que resuelve tareas y actividades a partir de una foto, captura o PDF, con procedimiento paso a paso por el camino más sencillo y una explicación de cada punto.
+Skill hecha para Areli <3 que resuelve tareas y actividades a partir de una foto, captura o PDF, con procedimiento paso a paso por el camino más sencillo y una explicación de cada punto.
 
 ## Cómo usarla
 
